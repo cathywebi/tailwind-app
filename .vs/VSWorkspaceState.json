@@ -3,8 +3,11 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\destination-card",
+    "\\src\\assets",
+    "\\src\\assets\\css",
     "\\src\\assets\\css\\build"
   ],
-  "SelectedNode": "\\src\\app\\app.component.html",
+  "SelectedNode": "\\src\\app\\destination-card\\destination-card.component.ts",
   "PreviewInSolutionExplorer": false
 }
